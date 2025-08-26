@@ -28,3 +28,19 @@ This project provides a comprehensive Power BI dashboard to analyze and visualiz
 
 <img width="666" height="780" alt="Screenshot 2025-08-26 111950" src="https://github.com/user-attachments/assets/ab4be801-87ee-4c92-a50b-824ac72bfa4a" />
 <img width="673" height="785" alt="Screenshot 2025-08-26 112003" src="https://github.com/user-attachments/assets/3b836edd-81a5-4c94-981f-36fae3c44841" />
+
+
+📂 Repository Structure
+
+
+📦 Electricity-Sales-Performance
+
+ ┣ 📊 dashboard/
+ ┃ ┗ Electricity_Sales_Performance.pbix   # Power BI report file
+ 
+ ┣ 📑 data/
+ ┃ ┗ electricity_sales_dataset.rar         # dataset
+ ┣ 📜 README.md                            # Project documentation
+ 
+ ┗ 📸 screenshots/
+   ┣ dashboard_overview.png
