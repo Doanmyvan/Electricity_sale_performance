@@ -1,4 +1,4 @@
-# 📌 Project Overview
+## 📌 Project Overview
 
 This project provides a comprehensive Power BI dashboard to analyze and visualize electric products sales performance across different regions, time periods, and customer segments. The aim is to support data-driven decision-making by providing insights into sales trends, revenue growth, seasonal patterns, and customer demand behavior.
 
